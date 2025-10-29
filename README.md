@@ -1,5 +1,5 @@
-# HACKSHASTRA2k25-Voice_med
-Voice_med 
+# HACKSHASTRA2k25-People_Med
+People_Med 
 
 Team members 
 1.Chinmai C Holla 
