@@ -14,3 +14,11 @@ Problem statement - Rural Health Connect: AI Symptom-to-Doctor Routing System"
  2.Need online consultation
  3.Emergency hospital visit
  
+Tech stack 
+
+
+
+Features
+
+
+
